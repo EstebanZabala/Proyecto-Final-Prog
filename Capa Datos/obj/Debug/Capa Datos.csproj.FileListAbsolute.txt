@@ -1,0 +1,17 @@
+C:\Users\issei\source\repos\Proyecto Final\Capa Datos\obj\Debug\Capa Datos.csprojAssemblyReference.cache
+C:\Users\issei\source\repos\Proyecto Final\Capa Datos\bin\Debug\Capa Datos.dll
+C:\Users\issei\source\repos\Proyecto Final\Capa Datos\bin\Debug\Capa Datos.pdb
+C:\Users\issei\source\repos\Proyecto Final\Capa Datos\bin\Debug\Capa Entidad.dll
+C:\Users\issei\source\repos\Proyecto Final\Capa Datos\bin\Debug\Capa Entidad.pdb
+C:\Users\issei\source\repos\Proyecto Final\Capa Datos\obj\Debug\Capa Datos.csproj.CopyComplete
+C:\Users\issei\source\repos\Proyecto Final\Capa Datos\obj\Debug\Capa Datos.dll
+C:\Users\issei\source\repos\Proyecto Final\Capa Datos\obj\Debug\Capa Datos.pdb
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Capa Datos\bin\Debug\Capa Datos.dll
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Capa Datos\bin\Debug\Capa Datos.pdb
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Capa Datos\bin\Debug\Capa Entidad.dll
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Capa Datos\bin\Debug\Capa Entidad.pdb
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Capa Datos\obj\Debug\Capa Datos.csprojAssemblyReference.cache
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Capa Datos\obj\Debug\Capa Datos.csproj.CoreCompileInputs.cache
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Capa Datos\obj\Debug\Capa Datos.csproj.CopyComplete
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Capa Datos\obj\Debug\Capa Datos.dll
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Capa Datos\obj\Debug\Capa Datos.pdb

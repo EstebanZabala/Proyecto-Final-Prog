@@ -1,0 +1,43 @@
+C:\Users\issei\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Capa Presentacion.csprojAssemblyReference.cache
+C:\Users\issei\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Form1.resources
+C:\Users\issei\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\issei\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Capa Presentacion.csproj.GenerateResource.cache
+C:\Users\issei\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\issei\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\issei\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\issei\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Capa Entidad.dll
+C:\Users\issei\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Capa Negocio.dll
+C:\Users\issei\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Capa Entidad.pdb
+C:\Users\issei\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Capa Negocio.pdb
+C:\Users\issei\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Capa Presentacion.csproj.CopyComplete
+C:\Users\issei\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\issei\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
+C:\Users\issei\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Capa Datos.dll
+C:\Users\issei\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Capa Datos.pdb
+C:\Users\issei\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Registrar.resources
+C:\Users\issei\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.admin.resources
+C:\Users\issei\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Usuarios.resources
+C:\Users\issei\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VisitasAdmin.resources
+C:\Users\issei\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Edificios.resources
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Proyecto Final\bin\Debug\Capa Entidad.dll
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Proyecto Final\bin\Debug\Capa Negocio.dll
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Proyecto Final\bin\Debug\Capa Datos.dll
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Proyecto Final\bin\Debug\Capa Entidad.pdb
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Proyecto Final\bin\Debug\Capa Negocio.pdb
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Proyecto Final\bin\Debug\Capa Datos.pdb
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Proyecto Final\obj\Debug\Capa Presentacion.csprojAssemblyReference.cache
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.admin.resources
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Edificios.resources
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Form1.resources
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Registrar.resources
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Usuarios.resources
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.VisitasAdmin.resources
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Proyecto Final\obj\Debug\Capa Presentacion.csproj.GenerateResource.cache
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Proyecto Final\obj\Debug\Capa Presentacion.csproj.CoreCompileInputs.cache
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Proyecto Final\obj\Debug\Capa Presentacion.csproj.CopyComplete
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+W:\Desktop 2021\Carpeta X\Tareas\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
